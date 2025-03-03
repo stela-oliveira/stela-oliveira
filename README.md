@@ -4,22 +4,18 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
-
-<p align="center" style="margin-top: -30px;">
-  Estudante de Engenharia de Software na Universidade do Contestado em Mafra-SC. <br>
-  Atualmente trabalho com JavaScript e estudo Java paralelamente. <br>
-  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. <br>
-  Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">
+  <strong>💻 Estudante de Engenharia de Software</strong> na Universidade do Contestado em Mafra-SC. <br>
+  🚀 Atualmente trabalho com <strong>JavaScript</strong> e estudo <strong>Java</strong> paralelamente. <br>
+  📚 Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. <br>
+  🎯 Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-#
+<img align="right" alt="GIF" height="400px" src="./src/one-piece-luffy.gif">
 
-
-<img align="right" alt="" height="400px" src="./src/one-piece-luffy.gif">
-
-<h3 align="left">📬 Connect with me!</h3>
+### 📬 Connect with me!
 
 <p align="left">
   <a href="mailto:steladeoliveira002@gmail.com">
@@ -33,9 +29,7 @@
   </a>
 </p>
 
-#
-
-<h3 align="left">🛠 My Stack</h3>
+### 🛠 My Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
@@ -53,6 +47,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="Docker" />
 </div>
 
-#
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
