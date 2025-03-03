@@ -6,11 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
-<<<<<<< HEAD
-<p align="center">
-=======
+
 <p align="center" style="margin-top: -30px;">
->>>>>>> 814aeff (Alterei o readme)
   Estudante de Engenharia de Software na Universidade do Contestado em Mafra-SC. <br>
   Atualmente trabalho com JavaScript e estudo Java paralelamente. <br>
   Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. <br>
@@ -19,11 +16,8 @@
 
 #
 
-<<<<<<< HEAD
-<img align="right" alt="" height="400px" src="./src/weeee-twirling.gif">
-=======
+
 <img align="right" alt="" height="400px" src="./src/one-piece-luffy.gif">
->>>>>>> 814aeff (Alterei o readme)
 
 <h3 align="left">📬 Connect with me!</h3>
 
