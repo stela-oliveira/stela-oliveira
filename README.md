@@ -13,7 +13,7 @@
   🎯 Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-<img align="right" alt="GIF" height="400px" src="./src/one-piece-luffy.gif">
+<img align="right" alt="GIF" height="300px" src="./src/one-piece-luffy.gif">
 
 ### 📬 Connect with me!
 
