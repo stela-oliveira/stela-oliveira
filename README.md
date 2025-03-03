@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=4994&pause=1000&center=true&repeat=false&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&center=true&width=435&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
@@ -13,7 +13,7 @@
   🎯 Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-<img align="right" alt="GIF" height="300px" src="./src/one-piece-luffy.gif">
+<img align="right" alt="GIF" height="350px" src="./src/one-piece-luffy.gif">
 
 ### 📬 Connect with me!
 
