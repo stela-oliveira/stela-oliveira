@@ -11,7 +11,7 @@
   📚 Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. <br>
 </p>
 
-<img align="right" alt="GIF" height="350px" src="./src/one-piece-luffy.gif">
+<img align="right" alt="GIF" height="300px" src="./src/one-piece-luffy.gif">
 
 ### 📬 Connect with me!
 
