@@ -8,9 +8,7 @@
 
 <p align="center">
   <strong>💻 Estudante de Engenharia de Software</strong> na Universidade do Contestado em Mafra-SC. <br>
-  🚀 Atualmente trabalho com <strong>JavaScript</strong> e estudo <strong>Java</strong> paralelamente. <br>
   📚 Estou sempre atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. <br>
-  🎯 Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
 <img align="right" alt="GIF" height="350px" src="./src/one-piece-luffy.gif">
