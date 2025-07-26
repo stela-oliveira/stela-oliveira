@@ -10,7 +10,7 @@
   <strong> 👩🏻‍💻 I’m a backend developer, creative and passionate about technology. <br>
 </p>
 
-<img align="right" alt="GIF" height="250px" src="./src/one-piece-luffy.gif">
+<img align="right" alt="GIF" height="200px" src="./src/one-piece-luffy.gif">
 
 ### 📬 Connect with me!
 
@@ -24,11 +24,11 @@
 ### 🛠 My Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,php,py,mysql,postgres,mongodb,aws" />
+    <img src="https://skillicons.dev/icons?i=java,js,php,py,mysql,postgres,mongodb" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,git,docker,figma,postman,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,git,docker,figma,eclipse,vscode" />
   </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
