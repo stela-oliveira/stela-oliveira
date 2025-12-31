@@ -5,7 +5,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
-
 <p align="center">
   <strong> 👩🏻‍💻 I’m a backend developer, creative and passionate about technology. <br>
 </p>
@@ -28,7 +27,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,git,docker,figma,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,docker,aws,linux,postman" />
   </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
