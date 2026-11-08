@@ -1,80 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="560" viewBox="0 0 1120 560" role="img" aria-label="Stela Oliveira GitHub profile">
-<style>text{font-family:Consolas,"Liberation Mono",Menlo,monospace;font-size:11px}.ascii{font-size:11.2px;white-space:pre}.key{fill:#ffa657}.value{fill:#a5d6ff}.muted{fill:#616e7f}</style>
-<rect width="1120" height="560" rx="16" fill="#161b22"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii" xml:space="preserve">
-<tspan x="15" y="30">                           ****#</tspan>
-<tspan x="15" y="45">                        #**#####***#</tspan>
-<tspan x="15" y="60">                      #**#%%%#%%%%#**#</tspan>
-<tspan x="15" y="75">                    #**#%#+-:::=*%###**</tspan>
-<tspan x="15" y="90">                   *####-.       -#%##**</tspan>
-<tspan x="15" y="105">                  *#%##-.         =%%#***</tspan>
-<tspan x="15" y="120">                 ##%#%+.      .::-:=#%#*++</tspan>
-<tspan x="15" y="135">                 *%###++=:    :-:   .=##*++</tspan>
-<tspan x="15" y="150">                *#%##+:::--.  .===-:  :##*==</tspan>
-<tspan x="15" y="165">                *##%##***+=:  .---:.   =@%#++</tspan>
-<tspan x="15" y="180">               #*##%%#+-:::            .%%#*+</tspan>
-<tspan x="15" y="195">               #*##%#+.   .:  .        :@%%*=+</tspan>
-<tspan x="15" y="210">               #*#%#%=    .-           :#%%#++</tspan>
-<tspan x="15" y="225">               ####%@*.  .::..   .     -%##*++</tspan>
-<tspan x="15" y="240">              ###%%@@@+..-+-:..  .     #@#**++</tspan>
-<tspan x="15" y="255">             %####%@@%@+..::         .+@%#*#*+</tspan>
-<tspan x="15" y="270">             #####%@%@@@#=:.         .*%#*##*+*</tspan>
-<tspan x="15" y="285">             %# #%%%%@@@@@%=:...      *%###%#***</tspan>
-<tspan x="15" y="300">              ###%%%%@@%%@@%+=:.     .*%%%##%#***</tspan>
-<tspan x="15" y="315">              *#%%%%%@@@%%@%=:.      :=%%@@##%#**</tspan>
-<tspan x="15" y="330">             *#%%%%%@@@@@%@%+:      ...+%@@@%###**</tspan>
-<tspan x="15" y="345">          *+=+#%%@@%@%@@@%@#=:      .. .=#%@@%%##***</tspan>
-<tspan x="15" y="360">       *-    :=%%%%%%%@@%%@*:         ..:=%@@@@%%##*-:+</tspan>
-<tspan x="15" y="375">      -      :-*###%%@%@@@@#.            :%@@@@@@%%%*. .</tspan>
-<tspan x="15" y="390">     =    .::=*#%%%@@@@@@@@*             :%@@@@@%%%#%*.</tspan>
-<tspan x="15" y="405">    *    .-..-*@%%@%%@@@@@%:             :%@@@@@@%%%##*. .</tspan>
-<tspan x="15" y="420">    .    :. -=%%%%%%%@%@@#:              .#@@@@@%%%%##*=. =</tspan>
-<tspan x="15" y="435">   +      :-+%@%%%%%@%%%%=                =@%@@@%%%%%##+-</tspan>
-<tspan x="15" y="450">   .      .*%@%%%%%%%%%@#.                :#@%%@@%%%%%%*-. =</tspan>
-<tspan x="15" y="465">  +       -%@%%%%%%%@@%*.                  =%@%%%%#%%@%#+.</tspan>
-<tspan x="15" y="480">  .      .#@%%%%%@%@%%#*=-:..               +@@%%%####%%#:. *</tspan>
-<tspan x="15" y="495"> *      .+%%%%@@@@%%%%@@@@@@%%##**+==-------+%@@@%%%%##%%=  .</tspan>
-<tspan x="15" y="510"> :     .:*%%@@@%@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@%@%%%%@%###*:</tspan>
-<tspan x="15" y="525">*     . .*%@@%%%@%%%%%@@@@@@@@@@@@@@@@@@@%%@@@%%%%%%%%%###=. =</tspan>
-</text>
-<text x="500" y="30" fill="#c9d1d9"><tspan x="500" y="30">stela@oliveira</tspan><tspan fill="#616e7f">  ─────────────────────────────────────────────────────────</tspan>
-<tspan x="500" y="48" class="muted">. </tspan><tspan class="key">Role</tspan>
-<tspan x="700" y="48" class="value">Backend Developer</tspan>
-<tspan x="500" y="66" class="muted">. </tspan><tspan class="key">Uptime</tspan>
-<tspan x="700" y="66" class="value">21 years</tspan>
-<tspan x="500" y="84" class="muted">. </tspan><tspan class="key">Student</tspan>
-<tspan x="700" y="84" class="value">Software Engineering, 6th semester</tspan>
-<tspan x="500" y="102" class="muted">. </tspan><tspan class="key">Living</tspan>
-<tspan x="700" y="102" class="value">Santa Catarina, Brazil</tspan>
-<tspan x="500" y="120" class="muted">. </tspan><tspan class="key">Programming.Since</tspan>
-<tspan x="700" y="120" class="value">2022</tspan>
-<tspan x="500" y="138" class="muted">. </tspan><tspan class="key">Coffee.Consumption</tspan>
-<tspan x="700" y="138" class="value">Infinite</tspan>
-<tspan x="500" y="168" class="muted">. </tspan><tspan class="key">Languages.Programming</tspan>
-<tspan x="700" y="168" class="value">Java, Python, TypeScript, PHP</tspan>
-<tspan x="500" y="186" class="muted">. </tspan><tspan class="key">Languages.Computer</tspan>
-<tspan x="700" y="186" class="value">JSON, YAML, SQL, SH</tspan>
-<tspan x="500" y="204" class="muted">. </tspan><tspan class="key">Languages.Real</tspan>
-<tspan x="700" y="204" class="value">Portuguese, English</tspan>
-<tspan x="500" y="234" class="muted">. </tspan><tspan class="key">Data</tspan>
-<tspan x="700" y="234" class="value">Firebase, PostgreSQL, MySQL, Prisma, MongoDB</tspan>
-<tspan x="500" y="252" class="muted">. </tspan><tspan class="key">Tools.Programing</tspan>
-<tspan x="700" y="252" class="value">SpringBoot, Node.js, React, Laravel, PyTorch, FastAPI</tspan>
-<tspan x="500" y="270" class="muted">. </tspan><tspan class="key">Tools.Platforms</tspan>
-<tspan x="700" y="270" class="value">Git, Docker, AWS, Linux, n8n, Postman</tspan>
-<tspan x="500" y="288" class="muted">. </tspan><tspan class="key">Methodologies</tspan>
-<tspan x="700" y="288" class="value">Clean Architecture, TDD, REST APIs</tspan>
-<tspan x="500" y="306" class="muted">. </tspan><tspan class="key">Interests</tspan>
-<tspan x="700" y="306" class="value">Artificial Intelligence, Machine Learning, Mobile</tspan>
-<tspan x="500" y="324" class="muted">. </tspan><tspan class="key">Studying</tspan>
-<tspan x="700" y="324" class="value">Microservices, Kubernetes</tspan>
-<tspan x="500" y="342" class="muted">. </tspan><tspan class="key">Editor</tspan>
-<tspan x="700" y="342" class="value">VS Code, IntelliJ IDEA, Orca</tspan>
-<tspan x="500" y="372" fill="#c9d1d9">- Contact <tspan fill="#616e7f">────────────────────────────────────────────────────────────</tspan></tspan>
-<tspan x="500" y="390" class="muted">. </tspan><tspan class="key">Email</tspan>
-<tspan x="700" y="390" class="value">steladeoliveira002@gmail.com</tspan>
-<tspan x="500" y="408" class="muted">. </tspan><tspan class="key">LinkedIn</tspan>
-<tspan x="700" y="408" class="value">stela-de-oliveira</tspan>
-<tspan x="500" y="426" class="muted">. </tspan><tspan class="key">Discord</tspan>
-<tspan x="700" y="426" class="value">stelaa.oliveira</tspan>
-</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="549" viewBox="0 0 1120 549" role="img" aria-label="Stela Oliveira GitHub profile" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkODJjY2Y2OC01OTNkLTRkYjItYWM5My1kM2MxMTk3NDgyOTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEMd3YNTFtzp8STlA+hjOJEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5ZjYyMTc2NS0yNWM5LTQ1NWItYmZjMi1mYjhhOTVlNDMyODFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoQezCutC/eWl8YYpVH6OeOQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg3F2XhSOdsNImoffMC3tmuhlsCKul8C1SX6/exlcZskGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNn5XEc8HrO29Of2fFoZVKwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCiBh1tH5MMg1brjtx38FgrbkFQHx5T+cnmGTq8/ebIZmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjOZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ4MmNjZjY4LTU5M2QtNGRiMi1hYzkzLWQzYzExOTc0ODI5NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjZmNWQwOGZhLThkNzAtNGI3Yi1hMjA1LWZiMWJmZmMyZmZlZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDcXZeFI52w0iah98wLe2a6GWwIq6XwLVJfr97GVxmyQaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggUuyet5dnQ9uC2pLr5yefwPClBIIR9W0H6+8x+fUMmn6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggv4cc7g5R+i86LY9iKmB/Rs6PMouaP3X6ORIAiqw1Nm10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCRy9G4Ko2wshvvlNQz+vDte1umryt17taxw61bstThava+PcZGl0ijf51Rt3K0yoKW2EnRCPY83LATt1I9XNvo=</c2pa:manifest></metadata>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",Menlo,monospace;white-space:pre}.a{font-size:11.6px}.i{font-size:12.5px}</style>
+<rect width="1120" height="549" rx="16" fill="#161b22"/>
+<text class="a" x="24" y="36.0" fill="#c9d1d9" textLength="224.0" lengthAdjust="spacing" xml:space="preserve">                           ****#</text>
+<text class="a" x="24" y="50.4" fill="#c9d1d9" textLength="252.0" lengthAdjust="spacing" xml:space="preserve">                        #**#####***#</text>
+<text class="a" x="24" y="64.8" fill="#c9d1d9" textLength="266.0" lengthAdjust="spacing" xml:space="preserve">                      #**#%%%#%%%%#**#</text>
+<text class="a" x="24" y="79.2" fill="#c9d1d9" textLength="273.0" lengthAdjust="spacing" xml:space="preserve">                    #**#%#+-:::=*%###**</text>
+<text class="a" x="24" y="93.6" fill="#c9d1d9" textLength="280.0" lengthAdjust="spacing" xml:space="preserve">                   *####-.       -#%##**</text>
+<text class="a" x="24" y="108.0" fill="#c9d1d9" textLength="287.0" lengthAdjust="spacing" xml:space="preserve">                  *#%##-.         =%%#***</text>
+<text class="a" x="24" y="122.4" fill="#c9d1d9" textLength="294.0" lengthAdjust="spacing" xml:space="preserve">                 ##%#%+.      .::-:=#%#*++</text>
+<text class="a" x="24" y="136.8" fill="#c9d1d9" textLength="301.0" lengthAdjust="spacing" xml:space="preserve">                 *%###++=:    :-:   .=##*++</text>
+<text class="a" x="24" y="151.2" fill="#c9d1d9" textLength="308.0" lengthAdjust="spacing" xml:space="preserve">                *#%##+:::--.  .===-:  :##*==</text>
+<text class="a" x="24" y="165.6" fill="#c9d1d9" textLength="315.0" lengthAdjust="spacing" xml:space="preserve">                *##%##***+=:  .---:.   =@%#++</text>
+<text class="a" x="24" y="180.0" fill="#c9d1d9" textLength="315.0" lengthAdjust="spacing" xml:space="preserve">               #*##%%#+-:::            .%%#*+</text>
+<text class="a" x="24" y="194.4" fill="#c9d1d9" textLength="322.0" lengthAdjust="spacing" xml:space="preserve">               #*##%#+.   .:  .        :@%%*=+</text>
+<text class="a" x="24" y="208.8" fill="#c9d1d9" textLength="322.0" lengthAdjust="spacing" xml:space="preserve">               #*#%#%=    .-           :#%%#++</text>
+<text class="a" x="24" y="223.2" fill="#c9d1d9" textLength="322.0" lengthAdjust="spacing" xml:space="preserve">               ####%@*.  .::..   .     -%##*++</text>
+<text class="a" x="24" y="237.6" fill="#c9d1d9" textLength="322.0" lengthAdjust="spacing" xml:space="preserve">              ###%%@@@+..-+-:..  .     #@#**++</text>
+<text class="a" x="24" y="252.0" fill="#c9d1d9" textLength="322.0" lengthAdjust="spacing" xml:space="preserve">             %####%@@%@+..::         .+@%#*#*+</text>
+<text class="a" x="24" y="266.4" fill="#c9d1d9" textLength="329.0" lengthAdjust="spacing" xml:space="preserve">             #####%@%@@@#=:.         .*%#*##*+*</text>
+<text class="a" x="24" y="280.8" fill="#c9d1d9" textLength="336.0" lengthAdjust="spacing" xml:space="preserve">             %# #%%%%@@@@@%=:...      *%###%#***</text>
+<text class="a" x="24" y="295.2" fill="#c9d1d9" textLength="343.0" lengthAdjust="spacing" xml:space="preserve">              ###%%%%@@%%@@%+=:.     .*%%%##%#***</text>
+<text class="a" x="24" y="309.6" fill="#c9d1d9" textLength="343.0" lengthAdjust="spacing" xml:space="preserve">              *#%%%%%@@@%%@%=:.      :=%%@@##%#**</text>
+<text class="a" x="24" y="324.0" fill="#c9d1d9" textLength="350.0" lengthAdjust="spacing" xml:space="preserve">             *#%%%%%@@@@@%@%+:      ...+%@@@%###**</text>
+<text class="a" x="24" y="338.4" fill="#c9d1d9" textLength="364.0" lengthAdjust="spacing" xml:space="preserve">          *+=+#%%@@%@%@@@%@#=:      .. .=#%@@%%##***</text>
+<text class="a" x="24" y="352.8" fill="#c9d1d9" textLength="385.0" lengthAdjust="spacing" xml:space="preserve">       *-    :=%%%%%%%@@%%@*:         ..:=%@@@@%%##*-:+</text>
+<text class="a" x="24" y="367.2" fill="#c9d1d9" textLength="392.0" lengthAdjust="spacing" xml:space="preserve">      -      :-*###%%@%@@@@#.            :%@@@@@@%%%*. .</text>
+<text class="a" x="24" y="381.6" fill="#c9d1d9" textLength="385.0" lengthAdjust="spacing" xml:space="preserve">     =    .::=*#%%%@@@@@@@@*             :%@@@@@%%%#%*.</text>
+<text class="a" x="24" y="396.0" fill="#c9d1d9" textLength="406.0" lengthAdjust="spacing" xml:space="preserve">    *    .-..-*@%%@%%@@@@@%:             :%@@@@@@%%%##*. .</text>
+<text class="a" x="24" y="410.4" fill="#c9d1d9" textLength="413.0" lengthAdjust="spacing" xml:space="preserve">    .    :. -=%%%%%%%@%@@#:              .#@@@@@%%%%##*=. =</text>
+<text class="a" x="24" y="424.8" fill="#c9d1d9" textLength="399.0" lengthAdjust="spacing" xml:space="preserve">   +      :-+%@%%%%%@%%%%=                =@%@@@%%%%%##+-</text>
+<text class="a" x="24" y="439.2" fill="#c9d1d9" textLength="420.0" lengthAdjust="spacing" xml:space="preserve">   .      .*%@%%%%%%%%%@#.                :#@%%@@%%%%%%*-. =</text>
+<text class="a" x="24" y="453.6" fill="#c9d1d9" textLength="406.0" lengthAdjust="spacing" xml:space="preserve">  +       -%@%%%%%%%@@%*.                  =%@%%%%#%%@%#+.</text>
+<text class="a" x="24" y="468.0" fill="#c9d1d9" textLength="427.0" lengthAdjust="spacing" xml:space="preserve">  .      .#@%%%%%@%@%%#*=-:..               +@@%%%####%%#:. *</text>
+<text class="a" x="24" y="482.4" fill="#c9d1d9" textLength="427.0" lengthAdjust="spacing" xml:space="preserve"> *      .+%%%%@@@@%%%%@@@@@@%%##**+==-------+%@@@%%%%##%%=  .</text>
+<text class="a" x="24" y="496.8" fill="#c9d1d9" textLength="413.0" lengthAdjust="spacing" xml:space="preserve"> :     .:*%%@@@%@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@%@%%%%@%###*:</text>
+<text class="a" x="24" y="511.2" fill="#c9d1d9" textLength="434.0" lengthAdjust="spacing" xml:space="preserve">*     . .*%@@%%%@%%%%%@@@@@@@@@@@@@@@@@@@%%@@@%%%%%%%%%###=. =</text>
+<text class="i" x="490" y="76.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#c9d1d9">stela@oliveira </tspan><tspan fill="#6e7681">-----------------------------------------------------------------</tspan></text>
+<text class="i" x="490" y="94.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Role:</tspan><tspan fill="#6e7681"> ..................................................... </tspan><tspan fill="#a5d6ff">Backend Developer</tspan></text>
+<text class="i" x="490" y="112.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Uptime:</tspan><tspan fill="#6e7681"> ............................................................ </tspan><tspan fill="#a5d6ff">21 years</tspan></text>
+<text class="i" x="490" y="130.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Student:</tspan><tspan fill="#6e7681"> ................................. </tspan><tspan fill="#a5d6ff">Software Engineering, 6th semester</tspan></text>
+<text class="i" x="490" y="148.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Living:</tspan><tspan fill="#6e7681"> .............................................. </tspan><tspan fill="#a5d6ff">Santa Catarina, Brazil</tspan></text>
+<text class="i" x="490" y="166.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Programming.Since:</tspan><tspan fill="#6e7681"> ..................................................... </tspan><tspan fill="#a5d6ff">2022</tspan></text>
+<text class="i" x="490" y="184.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Coffee.Consumption:</tspan><tspan fill="#6e7681"> ................................................ </tspan><tspan fill="#a5d6ff">Infinite</tspan></text>
+<text class="i" x="490" y="202.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
+<text class="i" x="490" y="220.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Languages.Programming:</tspan><tspan fill="#6e7681"> ........................ </tspan><tspan fill="#a5d6ff">Java, Python, TypeScript, PHP</tspan></text>
+<text class="i" x="490" y="238.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Languages.Computer:</tspan><tspan fill="#6e7681"> ..................................... </tspan><tspan fill="#a5d6ff">JSON, YAML, SQL, SH</tspan></text>
+<text class="i" x="490" y="256.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Languages.Real:</tspan><tspan fill="#6e7681"> ......................................... </tspan><tspan fill="#a5d6ff">Portuguese, English</tspan></text>
+<text class="i" x="490" y="274.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
+<text class="i" x="490" y="292.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Data:</tspan><tspan fill="#6e7681"> .......................... </tspan><tspan fill="#a5d6ff">Firebase, PostgreSQL, MySQL, Prisma, MongoDB</tspan></text>
+<text class="i" x="490" y="310.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Tools.Programming:</tspan><tspan fill="#6e7681"> .... </tspan><tspan fill="#a5d6ff">SpringBoot, Node.js, React, Laravel, PyTorch, FastAPI</tspan></text>
+<text class="i" x="490" y="328.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Tools.Platforms:</tspan><tspan fill="#6e7681"> ...................... </tspan><tspan fill="#a5d6ff">Git, Docker, AWS, Linux, n8n, Postman</tspan></text>
+<text class="i" x="490" y="346.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Methodologies:</tspan><tspan fill="#6e7681"> ........................... </tspan><tspan fill="#a5d6ff">Clean Architecture, TDD, REST APIs</tspan></text>
+<text class="i" x="490" y="364.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Interests:</tspan><tspan fill="#6e7681"> ................ </tspan><tspan fill="#a5d6ff">Artificial Intelligence, Machine Learning, Mobile</tspan></text>
+<text class="i" x="490" y="382.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Studying:</tspan><tspan fill="#6e7681"> ......................................... </tspan><tspan fill="#a5d6ff">Microservices, Kubernetes</tspan></text>
+<text class="i" x="490" y="400.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Editor:</tspan><tspan fill="#6e7681"> ........................................ </tspan><tspan fill="#a5d6ff">VS Code, IntelliJ IDEA, Orca</tspan></text>
+<text class="i" x="490" y="418.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">.</tspan></text>
+<text class="i" x="490" y="436.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#c9d1d9">- Contact </tspan><tspan fill="#6e7681">----------------------------------------------------------------------</tspan></text>
+<text class="i" x="490" y="454.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Email:</tspan><tspan fill="#6e7681"> ......................................... </tspan><tspan fill="#a5d6ff">steladeoliveira002@gmail.com</tspan></text>
+<text class="i" x="490" y="472.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">LinkedIn:</tspan><tspan fill="#6e7681"> ................................................. </tspan><tspan fill="#a5d6ff">stela-de-oliveira</tspan></text>
+<text class="i" x="490" y="490.8" textLength="592.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Discord:</tspan><tspan fill="#6e7681"> .................................................... </tspan><tspan fill="#a5d6ff">stelaa.oliveira</tspan></text>
+</svg>
